@@ -1,0 +1,8 @@
+
+train: /content/data/images/train
+val: /content/data/images/valid
+
+# number of classes
+nc: 21
+# class names
+names: ['ambulance','auto rickshaw','bicycle','bus','car','garbagevan','human hauler','minibus','minivan','motorbike','pickup','army vehicle','policecar','rickshaw','scooter','suv','taxi','three wheelers (CNG)','truck', 'van','wheelbarrow']
