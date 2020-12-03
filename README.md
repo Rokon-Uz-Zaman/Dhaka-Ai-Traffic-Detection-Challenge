@@ -17,3 +17,7 @@ The capital city of Dhaka has only 7% traffic roads (compared to 25% urban stand
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/35966401/96028382-086c1780-0e7b-11eb-8897-0fba85bd559e.png" alt= '' >
 </p>
+
+# Contributors 
+* [Md. Rafiuzzaman Bhuiyan Afridi](https://github.com/whoafridi) (YOLOv3)
+* [Jahidur Rahman Fahim](https://github.com/Jahidur1414) (YOLOv5)
