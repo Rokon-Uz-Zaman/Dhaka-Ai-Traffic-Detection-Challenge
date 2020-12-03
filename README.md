@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/35966401/100905966-d8dca180-34f2-11eb-83b6-21ead19799b9.png)
 
+# Sample output 
+
+![[gif]](/ezgif.com-video-to-gif.gif)
+
 # Why this new
 
 # AI-Based Dhaka Traffic Detection Challenge?
